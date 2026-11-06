@@ -1,0 +1,2 @@
+# Sprout
+only for android
